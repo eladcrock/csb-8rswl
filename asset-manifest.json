@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "https://eladcrock.github.io/csb-8rswl/static/css/main.56765a21.chunk.css",
+    "main.js": "https://eladcrock.github.io/csb-8rswl/static/js/main.93adf09f.chunk.js",
+    "main.js.map": "https://eladcrock.github.io/csb-8rswl/static/js/main.93adf09f.chunk.js.map",
+    "runtime-main.js": "https://eladcrock.github.io/csb-8rswl/static/js/runtime-main.53b3a841.js",
+    "runtime-main.js.map": "https://eladcrock.github.io/csb-8rswl/static/js/runtime-main.53b3a841.js.map",
+    "static/css/2.63984cac.chunk.css": "https://eladcrock.github.io/csb-8rswl/static/css/2.63984cac.chunk.css",
+    "static/js/2.b8d4ca00.chunk.js": "https://eladcrock.github.io/csb-8rswl/static/js/2.b8d4ca00.chunk.js",
+    "static/js/2.b8d4ca00.chunk.js.map": "https://eladcrock.github.io/csb-8rswl/static/js/2.b8d4ca00.chunk.js.map",
+    "static/js/3.0075cb31.chunk.js": "https://eladcrock.github.io/csb-8rswl/static/js/3.0075cb31.chunk.js",
+    "static/js/3.0075cb31.chunk.js.map": "https://eladcrock.github.io/csb-8rswl/static/js/3.0075cb31.chunk.js.map",
+    "index.html": "https://eladcrock.github.io/csb-8rswl/index.html",
+    "static/css/2.63984cac.chunk.css.map": "https://eladcrock.github.io/csb-8rswl/static/css/2.63984cac.chunk.css.map",
+    "static/css/main.56765a21.chunk.css.map": "https://eladcrock.github.io/csb-8rswl/static/css/main.56765a21.chunk.css.map",
+    "static/js/2.b8d4ca00.chunk.js.LICENSE.txt": "https://eladcrock.github.io/csb-8rswl/static/js/2.b8d4ca00.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53b3a841.js",
+    "static/css/2.63984cac.chunk.css",
+    "static/js/2.b8d4ca00.chunk.js",
+    "static/css/main.56765a21.chunk.css",
+    "static/js/main.93adf09f.chunk.js"
+  ]
+}
